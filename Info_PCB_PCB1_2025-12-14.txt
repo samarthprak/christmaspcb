@@ -1,0 +1,19 @@
+﻿Project Title: 		Christmas pcb
+Borard Title: 		Board1
+PCB Title: 		PCB1
+Time: 		2025-12-14 17:09:56
+
+Borard Size: 		3149.6mil x 3434.6mil
+Layers: 		Total 22, Copper 2
+
+Devices: 		0
+Footprints: 		0
+Components: 		Total 0,Top Layer 0,Bottom Layer 0
+Pads: 		Total 0, Table Stick 0,Metallized Hole 0, Nonmetallic Hole 0
+Nets: 		Total 0, Unrouted 0
+
+Slot Region: 		1
+Vias: 		Total 0, Through Vias 0, Blind Or Buried Vais 0
+CopperAreas: 		0
+Length of Tracks: 		0mil
+
